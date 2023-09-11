@@ -1,0 +1,16 @@
+Step 1
+https://nodejs.org/en/download
+download and install 
+
+Step 2
+https://code.visualstudio.com/docs/?dv=win
+download and install 
+
+
+Step3
+Open visual studio code  and create folder 
+Create a file 
+
+Step 4 Open terminal and run program
+
+--- END-------
