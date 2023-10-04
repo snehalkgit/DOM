@@ -105,3 +105,6 @@ let q6 = city2.includes('bai')
 console.log(q6)    //true
 let q7 = city2.includes('B')
 console.log(q7)     //false
+
+
+  
